@@ -4,7 +4,7 @@
 # lfp-cycle-life-prediction
 # Early-Life Cycle-Life Prediction for LFP/Graphite Cells
 
-Predicting the full cycle life of lithium-iron-phosphate (LFP)/graphite cells from only the **first 100 cycles**, reproducing and extending the approach of Severson et al. (*Nature Energy*, 2019). This is a self-directed project using the publicly available dataset; it demonstrates data-driven battery-lifetime modeling grounded in electrochemical intuition.
+A **self-directed machine-learning practice project**: reproducing the early-life cycle-life prediction approach of Severson et al. (*Nature Energy*, 2019) on their publicly released LFP/graphite dataset. The aim is skill-building — feature engineering, model validation, and interpretation grounded in electrochemical intuition — **not original research**.
 
 ## Motivation
 
